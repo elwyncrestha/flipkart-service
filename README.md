@@ -20,3 +20,7 @@
 ## Postman Collection
 
 - [Collection](./Flipkart.postman_collection.json)
+
+## Explanation
+
+- [YouTube](https://youtu.be/uU9ykm67w20)
