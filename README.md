@@ -16,3 +16,7 @@
 
 - Tested against the real server.
 - MockMvc not used.
+
+## Postman Collection
+
+- [Collection](./Flipkart.postman_collection.json)
